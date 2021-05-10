@@ -16,7 +16,10 @@ Here are some ideas to get you started:
 -->
 
 - I'm a high school student in Shanghai, China
+- Most proficient with JavaScript / C++ / LaTeX; also fine with Java & Python.
 - I'm learning compilers, CPU, front end, database, network, cybersecurity, and everything about computer science!
 - I'm looking for help with CTFs (resources, courses, open tournaments, etc.)
 - Pronouns: He/his
-- Read more about me at [my GitHub pages](https://josh-cena.github.io)!
+- Read more about me at [my personal page](https://josh-cena.github.io)!
+
+[![Josh-Cena's GitHub stats](https://github-readme-stats.vercel.app/api?username=Josh-Cena)](https://github.com/anuraghazra/github-readme-stats)
