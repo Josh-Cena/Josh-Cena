@@ -15,10 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- I'm a high school student in Shanghai, China
+- High school student in Shanghai, China
 - Most proficient with JavaScript / C++ / LaTeX; also fine with Java & Python.
-- I'm learning compilers, CPU, front end, database, network, cybersecurity, and everything about computer science!
-- I'm looking for help with CTFs (resources, courses, open tournaments, etc.)
+- Learning compilers, CPU, front end, database, network, cybersecurity, and everything about computer science!
+- Looking for help with CTFs (resources, courses, open tournaments, etc.)
+- Eager to make Chinese more accessible on the Internet (translation, CJK-related issues, etc.)
 - Pronouns: He/his
 - Read more about me at [my personal page](https://josh-cena.github.io)!
 
