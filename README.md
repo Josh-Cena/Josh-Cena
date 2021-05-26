@@ -15,9 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- High school student in Shanghai, China
+I'm...
+
+- A high school student in Shanghai, China
 - Most proficient with JavaScript / C++ / LaTeX; also fine with Java & Python.
-- Learning compilers, CPU, front end, database, network, cybersecurity, and everything about computer science!
+- Learning compilers, CPU, front end, database, network, cybersecurity, machine learning, and everything about computer science!
 - Looking for help with CTFs (resources, courses, open tournaments, etc.)
 - Eager to make Chinese more accessible on the Internet (translation, CJK-related issues, etc.)
 - Pronouns: He/his
