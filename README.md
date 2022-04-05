@@ -2,7 +2,7 @@
 
 I'm...
 
-- A high school student in Shanghai, China
+- A Yale bulldog 
 - An all-rounded computer science enthusiast
 - Looking for help with CTFs (resources, courses, open tournaments, etc.)
 - Eager to make Chinese more accessible on the Internet
