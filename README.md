@@ -4,7 +4,7 @@
 - Yalie 🐶
 - Eager to make Chinese more accessible on the Internet
 - Working on:  
-  <a href="https://github.com/facebook/docusaurus"><img src="https://github.com/Josh-Cena/Josh-Cena.github.io/blob/master/blog/2021-03-09-docusaurus/docusaurus.png" alt="Docusaurus" title="Docusaurus" width="50" /></a> <a href="https://github.com/mdn/content"><img src="https://github.com/mdn.png" alt="MDN Web Docs" title="MDN Web Docs" width="50" /></a> <a href="https://github.com/jc-verse"><img src="https://github.com/jc-verse.png" alt="JC-verse" title="JC-verse" width="50" /></a>
+  <a href="https://github.com/facebook/docusaurus"><img src="https://github.com/Josh-Cena/Josh-Cena.github.io/blob/master/blog/2021-03-09-docusaurus/docusaurus.png" alt="Docusaurus" title="Docusaurus" width="50" /></a> <a href="https://github.com/mdn/content"><img src="https://github.com/mdn.png" alt="MDN Web Docs" title="MDN Web Docs" width="50" /></a> <a href="https://github.com/jc-verse"><img src="https://github.com/jc-verse.png" alt="JC-verse" title="JC-verse" width="50" /></a> <a href="https://github.com/typescript-eslint/typescript-eslint"><img src="https://github.com/typescript-eslint.png" alt="TypeScript-ESLint" title="TypeScript-ESLint" width="50" /></a>
 
 Stack:
   
