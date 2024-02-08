@@ -2,9 +2,13 @@
 
 - 🇨🇳🇨🇳🇨🇳
 - Yalie 🐶
-- Eager to make Chinese more accessible on the Internet
 - Maintainer/Member:
   <a href="https://github.com/facebook/docusaurus"><img src="https://docusaurus.io/img/docusaurus_keytar.svg" alt="Docusaurus" title="Docusaurus" width="50" /></a> <a href="https://github.com/mdn/content"><img src="https://github.com/mdn.png" alt="MDN Web Docs" title="MDN Web Docs" width="50" /></a> <a href="https://github.com/jc-verse"><img src="https://github.com/jc-verse.png" alt="JC-verse" title="JC-verse" width="50" /></a> <a href="https://github.com/typescript-eslint/typescript-eslint"><img src="https://github.com/typescript-eslint.png" alt="typescript-eslint" title="typescript-eslint" width="50" /></a> <a href="https://github.com/coursetable/coursetable"><img src="https://github.com/coursetable.png" alt="CourseTable" title="CourseTable" width="50" /></a>
+- My work/research areas:
+  - Natural language structure
+  - Static analyzers, compilers, PLs
+  - Neural networks
+  - Web development tooling
 
 Stack:
   
