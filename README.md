@@ -18,7 +18,7 @@ Each year, I use a different language for [Advent of Code](https://adventofcode.
 | 2020 (repo TODO) | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
 | [2021](https://github.com/Josh-Cena/aoc2021) | ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) |
 | [2022](https://github.com/Josh-Cena/aoc2022) | ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white) |
-| 2023 (TODO) |  |
+| [2023](https://github.com/Josh-Cena/aoc2023) | ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) |
 | [2024](https://github.com/Josh-Cena/aoc2024) | ![OCaml](https://img.shields.io/badge/OCaml-%23E98407.svg?style=for-the-badge&logo=ocaml&logoColor=white) |
 | [2025](https://github.com/Josh-Cena/aoc2025) | ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) |
 
